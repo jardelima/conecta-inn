@@ -83,14 +83,14 @@ _Solicitação_
 
 Rotas utilizadas pelo para executar metodos de **POST** e **GET** no banco de dados.
 
-* **USUÁRIO**
+##### USUÁRIO
 | Nome | Funcionalidade|
 |------|--------------|
 |```GET``` /user/information|Informa todos dados do usuário.|
 |```POST``` /auth/register|Registra o usuário no aplicativo.|
 |```POST``` /auth/login|Realizado o login do usuário.|
 
-* **HOTEL**
+#### HOTEL
 | Nome | Funcionalidade|
 |------|--------------|
 |```GET``` /hotel/{```ID DO HOTEL```}/informative|Retorna blocos informativos do hotel.|
@@ -100,7 +100,7 @@ Rotas utilizadas pelo para executar metodos de **POST** e **GET** no banco de da
 |```GET``` /hotel/{```ID DO HOTEL```}/services|Informa quais serviços o hotel disponibiliza para compra.|
 |```GET``` /hotel/{```ID DO HOTEL```}/tours|Informa quais passeios o hotel disponibiliza para compra.|
 
-* **RESERVA**
+#### RESERVA
 | Nome | Funcionalidade|
 |------|--------------|
 |```GET``` /reservation/reservations|Informa as reservas ativadas pelo usuário.|
