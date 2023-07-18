@@ -21,7 +21,7 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 
 ## Introdução
 
-Esse projeto foi desenvolvido para facilitar a rede de hóteis junto com os hóspedes. O objetivo dele é tornar procedimentos "trabalhosos" em algo mais rápido de se resolver, por exemplo: Check-In; Check-Out; Documentação; Compras dentro do hotel e pagamento das compras. O aplicativo também disponibilizará todas as informações que o hóspede precisa saber, por exemplo: Horários do café da manhã, almoço; Senha do Wi-fi; Horário da Piscina.
+Esse projeto foi desenvolvido para facilitar processos entre a rede de hóteis e os hóspedes. O objetivo dele é tornar procedimentos "trabalhosos" em algo mais rápido de se resolver, por exemplo: Check-In; Check-Out; Documentação; Compras dentro do hotel e pagamento das compras. O aplicativo também disponibilizará todas as informações que o hóspede precisa saber, por exemplo: Horários do café da manhã, almoço; Senha do Wi-fi; Horário da Piscina.
 
 ## Análise técnica
 
