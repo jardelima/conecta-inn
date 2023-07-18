@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "423401548121",
+      "project_id": "conecta-in",
+      "storage_bucket": "conecta-in.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:423401548121:android:b3a63b0807a927bb370448",
+          "android_client_info": {
+            "package_name": "com.conectinapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "423401548121-0i9b15d272qrl7f7s7k1nmn9bloiuq26.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC0TueAyIVM0JGdVhDD5Qz_k-uOBLwmpcw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "423401548121-0i9b15d272qrl7f7s7k1nmn9bloiuq26.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

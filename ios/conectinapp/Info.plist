@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+	<!-- ACESSO CAMERA -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Permissão para acessar sua biblioteca</string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Permissão para usar sua câmera</string>
+
+	<key>UIFileSharingEnabled</key>
+	<true/>
+
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+
+	<key>UIDocumentBrowserVC</key>
+	<true/>
+	<!-- FACE ID -->
+	<key>NSFaceIDUsageDescription</key>
+	<string>Enabling Face ID allows you quick and secure access to your account.</string>
+	
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>conectinapp</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>montserrat-black-italic.ttf</string>
+		<string>montserrat-black.ttf</string>
+		<string>montserrat-bold-italic.ttf</string>
+		<string>montserrat-bold.ttf</string>
+		<string>montserrat-extra-bold-italic.ttf</string>
+		<string>montserrat-extra-bold.ttf</string>
+		<string>montserrat-extra-light-italic.ttf</string>
+		<string>montserrat-extra-light.ttf</string>
+		<string>montserrat-italic.ttf</string>
+		<string>montserrat-light-italic.ttf</string>
+		<string>montserrat-light.ttf</string>
+		<string>montserrat-medium-italic.ttf</string>
+		<string>montserrat-medium.ttf</string>
+		<string>montserrat-regular.ttf</string>
+		<string>montserrat-semi-bold-italic.ttf</string>
+		<string>montserrat-semi-bold.ttf</string>
+		<string>montserrat-thin-italic.ttf</string>
+		<string>montserrat-thin.ttf</string>
+		<string>SourceSansPro-Black.ttf</string>
+		<string>SourceSansPro-BlackItalic.ttf</string>
+		<string>SourceSansPro-Bold.ttf</string>
+		<string>SourceSansPro-BoldItalic.ttf</string>
+		<string>SourceSansPro-ExtraLight.ttf</string>
+		<string>SourceSansPro-ExtraLightItalic.ttf</string>
+		<string>SourceSansPro-Italic.ttf</string>
+		<string>SourceSansPro-Light.ttf</string>
+		<string>SourceSansPro-LightItalic.ttf</string>
+		<string>SourceSansPro-Regular.ttf</string>
+		<string>SourceSansPro-SemiBold.ttf</string>
+		<string>SourceSansPro-SemiBoldItalic.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen.storyboard</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+
+</dict>
+</plist>
