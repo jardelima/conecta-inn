@@ -16,6 +16,7 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 * [JDK](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html) - (Versão 8)
 * [Android Studio](https://developer.android.com/studio)
 * [Node js](https://nodejs.org/en) - (Versão >= v12.22)
+* [React Native](https://reactnative.dev/) - (Versão >= 0.68.5)
 
 # < Conecta Inn >
 
